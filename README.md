@@ -23,6 +23,7 @@ After completing the feature or fixed the bug, you will need to push that branch
     $ git push -u origin feature/xxx # for a feature branch
 
 or
+
     $ git push -u origin bugfix/xxx # for a bugfix branch
 
 Then, open a new pull request [here](https://github.com/OpenPega/open-pega-api/pulls) using your new pushed branch as the branch that you want to get merged and `develop` as the base branch, then we will review your work on it and asses the changes. After the review process (that can contain a couple of fixes from your side) it will be ready to be merged into the `develop` branch. Hit the big green merge button at the bottom so your work can be merged with `development`. Congratulations, your work will be kept for posterity :)
